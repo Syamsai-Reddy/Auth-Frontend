@@ -32,10 +32,10 @@ const Login = () => {
             <a href="https://www.facebook.com/" className="px-2 py-2 text-white h-14 w-14 rounded-2xl">
               <img src="https://img.icons8.com/?size=100&id=13912&format=png&color=000000" alt="facebook avatar" />
             </a>
-            <a href="mailto:syamsaireddyyeturu@gmail.com" className="px-2 py-2 text-white h-14 w-14 rounded-2xl">
+            <a href="mailto:writo@gmail.com" className="px-2 py-2 text-white h-14 w-14 rounded-2xl">
               <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="gmail avatar" />
             </a>
-            <a href="https://www.linkedin.com/in/syamsai-reddy-0609a9239" className="px-2 py-2 text-white h-14 w-14 rounded-2xl">
+            <a href="https://www.linkedin.com" className="px-2 py-2 text-white h-14 w-14 rounded-2xl">
               <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin avatar" />
             </a>
           </div>
